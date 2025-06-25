@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=95501-6669
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2017-03-24 15:48:35
+Downloaded=2025-04-29 14:53:00
+3D=Y
